@@ -1,4 +1,4 @@
 # FrontEndMentor-tests
 tests
 
-i need some :coffee:
+i need some :coffee: and 😄
